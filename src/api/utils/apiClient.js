@@ -5,7 +5,7 @@ import { history } from "../..";
 
 
 const apiClient =  axios.create({
-    baseURL:  "http://142.93.152.229/cairo/api",
+    baseURL:  "https://142.93.152.229/cairo/api",
     // headers: {
     //     "Content-Type": 'application/json'
     // }

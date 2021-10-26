@@ -1,0 +1,18 @@
+.catsch-lt{
+    width: 80%;
+    height: 450px;
+    background-color: rgb(238, 238, 238);
+}
+.list-group-item:hover{
+    background: rgb(238, 238, 238)
+}
+.foot{
+    height: 40px;
+    background: rgb(238, 238, 238)
+}
+
+
+.catsch-rt{
+    width: 80%;
+    height: 450px;
+}

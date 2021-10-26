@@ -1,0 +1,89 @@
+/* top styles  */
+.top{
+    width: 100%;
+    height: 50px;
+    background-color:#1A2669;
+    color: #fff;
+}
+.pointer{
+    cursor: pointer;
+}
+
+/* navbar styles  */
+.navbar{
+    width: 100%;
+    min-height: 80px;
+    background: #3F51B5;
+    padding: 0 40px;
+    font-size: 20px;
+}
+.search{
+    min-width: 230px;
+    height: 40px;
+}
+.btn.btn-light{
+    min-width: 200px;
+    height:43px;
+    color: #fff;
+    background-color: #F58634;
+    border: none;
+}
+.btn.btn.btn-light:hover{
+    color: #F58634;
+    background-color: #Fff;
+}
+
+
+
+
+/* bread stylings  */
+.bread{
+    height: 60px;
+}
+
+.prod-img{
+    width: 100%;
+    height: inherit;
+    position: relative;
+}
+
+.atc{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    margin-bottom: 06px;
+}
+.prod-card .prod-img .atc{
+    display: none;
+}
+.prod-card:hover.prod-card .prod-img .atc{
+    display: block;
+    transition: 1s;
+}
+
+.btn.btn-toCart{
+    height:43px;
+    color: #fff;
+    background-color: #F58634;
+    border: none;
+    border-radius: 0;
+}
+.btn.btn-toCart:hover{
+    color: #F58634;
+    background-color: rgb(236, 236, 236);
+}
+
+.text-orange{
+    color: #F58634;
+}
+.hover-orange:hover{
+    color: #F58634;
+}
+
+.bg-btn{
+    background-color: #3F51B5;
+}
+
+.bg-app{
+    background-color: #3F51B5;
+}
